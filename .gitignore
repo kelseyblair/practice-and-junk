@@ -2,5 +2,12 @@
 *.o
 *.out
 
+# Assembly output
+*.s
+
 # XCode projects in their entirity
 *.xcodeproj/
+
+# Python byte code files
+*.pyc
+
