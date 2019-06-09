@@ -11,3 +11,6 @@
 # Python byte code files
 *.pyc
 
+# That other practice repo that's also in this folder
+destroy-this-repo/
+
