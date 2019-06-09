@@ -1,6 +1,6 @@
 # primenumbers.py
 
-which_prime = input("What prime do you fucking want, you pleb? ")
+which_prime = input("What prime do you want? ")
 
 def find_prime(num):
 
