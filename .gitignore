@@ -1,0 +1,6 @@
+# C output files
+*.o
+*.out
+
+# XCode projects in their entirity
+*.xcodeproj/
